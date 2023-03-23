@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BNSP"]
+	path = BNSP
+	url = https://github.com/cran/BNSP
+	shallow = true
+	registered = true
+[submodule "mixcat"]
+	path = mixcat
+	url = https://github.com/cran/mixcat
+	shallow = true
+	registered = true
